@@ -1,8 +1,10 @@
+**Building & Deploying Cat Dating Site - Tiddles Using HTML & CSS**
+
 ![HTML5](https://img.shields.io/badge/HTML5-brightgreen.svg)
 ![CSS](https://img.shields.io/badge/CSS-red.svg)
 
 Download Additional Files :
-• This repository consists of files required to deploy a stylish personal site.
+• This repository consists of files required to deploy a cat dating site.
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
