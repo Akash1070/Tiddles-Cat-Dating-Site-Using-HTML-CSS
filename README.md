@@ -15,7 +15,9 @@ Download Additional Files :
 
 
 ## Deployment
-  1.Build using HTML5 & CSS
+
+  1.Build using HTML5 & CSS.
+  
   2.Deployed on Github Pages.
 
 ## 🚀 About Me
